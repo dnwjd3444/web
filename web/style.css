@@ -1,0 +1,11 @@
+a{text-decoration: none;}
+h1{font-size: 300%;text-align: center;border-bottom:black 1px solid;}
+h2{font-size: 200%;text-align: center;}
+body{margin: 0;}
+#img {text-align: center;}
+@media(max-width:800px)
+{
+#grid{display:block;}
+h1{border-bottom:none;}
+#grid ol{border-right:none;}
+}
